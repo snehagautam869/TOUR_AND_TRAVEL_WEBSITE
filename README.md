@@ -60,3 +60,5 @@ To run the website locally, follow these steps:
 You should now be able to access and explore the Travel Website on your local machine.
 
 If you encounter any issues or have further questions, please feel free to reach out. Happy travels!
+![Web capture_3-7-2023_18025_snehagautam869 github io](https://github.com/snehagautam869/TOUR_AND_TRAVEL_WEBSITE/assets/79215346/edda2451-8493-47a0-bd8f-8ad8c9fc0aa3)
+
